@@ -50,14 +50,14 @@ The next set of data contains the total review analysis
 
 
 
-| ![img](C:\Rutgers\module-16\resources\1.jpg) |
+| ![img](resources/1.jpg) |
 | -------------------------------------------- |
-| ![img](C:\Rutgers\module-16\resources\2.jpg) |
-| ![img](C:\Rutgers\module-16\resources\3.jpg) |
-| ![img](C:\Rutgers\module-16\resources\4.jpg) |
+| ![img](resources/2.jpg) |
+| ![img](resources/3.jpg) |
+| ![img](resources/4.jpg) |
 |                                              |
 | Total Number of Reviews                      |
-| ![img](C:\Rutgers\module-16\resources\5.jpg) |
+| ![img](resources/5.jpg) |
 |                                              |
 
 ## Summary 
